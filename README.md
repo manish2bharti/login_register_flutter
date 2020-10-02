@@ -4,7 +4,7 @@ Login Register app in flutter.
 
 Simple basic authentication app designed in flutter. App design is based on <a href="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/a0690a86011377.5d9df2afceda1.png" rel="nofollow">Login/Register Design</a>
 
-<img width="294" alt="CSS Timeline" src="https://github.com/manish2bharti/Login-register/blob/master/assets/screen.png">
+<img width="294" alt="login_resiter" src="https://github.com/manish2bharti/login_register_flutter/blob/main/assets/screens.png" width="100%">
 
 ## Getting Started
 
